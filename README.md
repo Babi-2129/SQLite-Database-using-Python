@@ -9,9 +9,13 @@ The goal is to extract and visualize basic sales data from a small SQLite databa
 ## 📁 Project Structure
 │
 ├── sales_data.db # SQLite database with sample sales data
+
 ├── Codes to extract data.ipynb # Jupyter Notebook with analysis and charts
+
 ├── Codes to extract data.html # Exported HTML version of the notebook
+
 ├── sales_chart.png # Bar chart showing revenue per product
+
 └── README.md # Project overview and instructions
 
 
@@ -43,7 +47,7 @@ The goal is to extract and visualize basic sales data from a small SQLite databa
 - A summary table showing product-wise total quantity and revenue
 - A bar chart showing **Revenue by Product**
 
-![Sales Chart](Bar Chart (matplotlib).png)
+![Sales Chart](.png)
 
 ---
 
