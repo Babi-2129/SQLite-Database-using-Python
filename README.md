@@ -43,7 +43,7 @@ The goal is to extract and visualize basic sales data from a small SQLite databa
 - A summary table showing product-wise total quantity and revenue
 - A bar chart showing **Revenue by Product**
 
-![Sales Chart](sales_chart.png)
+![Sales Chart](Bar Chart (matplotlib).png)
 
 ---
 
